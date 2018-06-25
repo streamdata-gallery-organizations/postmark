@@ -6,10 +6,10 @@ description: Trusted by thousands of developers, Postmark is a fast and reliable
   inbox on time, every time.
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postmark.jpg
 x-kinRank: "8"
-x-alexaRank: "92150"
+x-alexaRank: "87545"
 tags: Postmark
-created: "2018-06-20"
-modified: "2018-06-20"
+created: "2018-06-25"
+modified: "2018-06-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/postmark/master/_listings/postmark/apis.md
 specificationVersion: "0.14"
 apis:
@@ -992,6 +992,8 @@ x-common:
   url: http://postmarkapp.com
 - type: x-website
   url: http://postmarkapp.com/
+- type: x-website
+  url: https://postmarkapp.com
 - type: x-wordpress-pdk
   url: http://developer.postmarkapp.com/developer-official-libs.html#wordpress
 include: []
