@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Postmark",
+	"description": "This is a repository of postmark APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/postmark.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://postmark.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Postmark",
+			"x-api-slug": "postmark",
+			"description": "Trusted by thousands of developers, Postmark is a fast and reliable transactional email service. Send with Postmark to ensure your transactional emails get to the inbox on time, every time.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postmark.jpg",
+			"humanURL": "http://postmarkapp.com",
+			"baseURL": "https://api.postmarkapp.com//",
+			"tags": "Postmark",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/postmark/master/_listings/postmark/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Postmark",
+	"include": [
+		{
+			"name": "Postmark",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/postmark/master/_listings/postmark/apis.yaml"
+		}
+	]
+}
